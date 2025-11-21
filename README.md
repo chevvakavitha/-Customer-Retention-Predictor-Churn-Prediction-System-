@@ -178,7 +178,7 @@ print(result)   # { "churn_probability": 0.82, "label": "High Risk" }
 <p><strong>Cheva Kavitha</strong></p>
 <ul>
   <li>GitHub: https://github.com/chevvakavitha</li>
-  <li>LinkedIn: Add your link</li>
+  <li>LinkedIn: https://www.linkedin.com/in/cheva-kavitha/</li>
 </ul>
 
 <p align="center">⭐ Star this repo if you like the project!</p>
